@@ -33,3 +33,4 @@ sitemap:
 | 4 februari                | Swapmeet (volkswagens)    | Mol (Belgie)  
 | 11 t/m 14 januari         | Inter Classics            | Maastricht 
 | 6, 7 januari              | Aircooled winterfest      | Rosmalen
+| 6, 7 januari              | Aircooled winterfest      | Rosmalen
