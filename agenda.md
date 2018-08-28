@@ -26,7 +26,8 @@ sitemap:
 | Pinksterweekend           | Camp-out VAG-friends      | Lanaken  
 | 19 mei                    | Fiat 500 Pinkstertreffen  | Sittard-Geleen  
 | 4 t/m 6 mei               | Beatle at the Beach       | Nuenen  
-| 27 april                  | Koningsrit                | Elsloo  
+| 27 april                  | Koningsrit                | Elsloo
+| 25 april                  |Pasen                      | Roermond
 | 22 april                  | Bloesemtocht              | St Geertruiden  
 | 14, 15 april              | Mustang Fever             | Schaapsweg 4 Heusden/Zolder (Belgie)  
 | 10 t/m 11 maart           | British Cars and Lifestyle| Rosmalen  
